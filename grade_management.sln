@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "grade_management", "grade_management\grade_management.pyproj", "{D02C13F7-AA00-45FD-9FF6-22CF8BD866B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D02C13F7-AA00-45FD-9FF6-22CF8BD866B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D02C13F7-AA00-45FD-9FF6-22CF8BD866B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBA3B0CB-2763-4FD5-AA70-DAB2D5DC0E51}
+	EndGlobalSection
+EndGlobal
